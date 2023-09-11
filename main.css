@@ -1,4 +1,17 @@
-h1, p {
+h1 {
     color: blue;
     text-align: center;
+}
+
+p {
+    color: blue;
+    text-align: center; 
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+a:visited {
+    text-decoration: none;
 }
