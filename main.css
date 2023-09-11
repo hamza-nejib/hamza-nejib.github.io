@@ -1,4 +1,9 @@
-h1, a {
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+a {
     color: blue;
     text-align: center;
 }
